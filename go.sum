@@ -1,7 +1,7 @@
-github.com/bassosimone/netstub v0.0.0-20260828082500-583e8874b802 h1:zuQe979MvtVIC9o3seYuQynl1/LsYvi1+xDn5I9gSRQ=
-github.com/bassosimone/netstub v0.0.0-20260828082500-583e8874b802/go.mod h1:4yoMeEZ075XAJH+95qBeO0ecXEDJcndDkTj5bRn8jU8=
-github.com/bassosimone/runtimex v0.0.0-20260828074549-6e2e561f98d1 h1:cKgPj0sf9H1nDgwza2s0aunfBo3igVtdTxBWXWxJaIA=
-github.com/bassosimone/runtimex v0.0.0-20260828074549-6e2e561f98d1/go.mod h1:51CWZgVstdhEzW1qbZS1sZYehVdQOPGZhmXKZSjIoeI=
+github.com/bassosimone/netstub v0.0.0-20260920134457-30c052c7ef3a h1:88L66btw15q/J0q23kMhbsg00OrZmMUWHfsOe/ICzus=
+github.com/bassosimone/netstub v0.0.0-20260920134457-30c052c7ef3a/go.mod h1:P0cdjjIO93lcACVZ7hsuBIMAAqkXbzrBUgDy80A8r0Y=
+github.com/bassosimone/runtimex v0.0.0-20260920130843-b72080259a60 h1:1bLVzSLp4k8NCkLkHYE/TLRf58gSBV/Py4pNXJDAhGs=
+github.com/bassosimone/runtimex v0.0.0-20260920130843-b72080259a60/go.mod h1:2aW76skIZNS7ljOpIqU3eARVLmtb0AG/Gab4aegSkTA=
 github.com/stretchr/testify v1.12.1 h1:EuwCh5fleGS7H32xRwO3wRGT7DxrDhLAT6FF8MpWDWE=
 github.com/stretchr/testify v1.12.1/go.mod h1:MDEgiDPPsNp5cuIrHPPCyornHKgEVbtFUmoNlxoYthg=
 go.yaml.in/yaml/v3 v3.0.5 h1:N6y/pJk8buWs9NY5ERU2HSMfm+IuD/OtfdAnq6kESPw=
